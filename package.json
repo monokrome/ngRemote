@@ -12,6 +12,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "^4.1.0"
+    "jsdom": "^13.2.0"
   }
 }
